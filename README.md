@@ -1,5 +1,3 @@
-# master
-练习项目
 ## Git 地址：https://github.com/1273422726/master.git
 ## 一、todoList案例相关知识点
 		1.拆分组件、实现静态组件，注意：className、style的写法
